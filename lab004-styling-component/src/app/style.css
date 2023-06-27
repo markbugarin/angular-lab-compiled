@@ -1,0 +1,26 @@
+body {
+  margin: 25px;
+}
+.div1 {
+  display: inline-block;
+  width: 150px;
+  text-align: justify;
+  margin-left: 20px;
+  padding: 25px;
+  margin-right: 25px;
+  background-color: #2D2727;
+  color: #FCE9F1;
+  border-radius: 5px;
+  border: 2px solid #000000;
+}
+.div2 {
+  margin-top: 20px;
+  display: inline-block;
+  margin-left: 20px;
+  background-color: #191919;
+  color: #FCE9F1;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  padding: 25px;
+  text-align: center;
+}
